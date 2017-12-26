@@ -1,6 +1,5 @@
 package com.company;
 
-/* This is a comment */
 
 public class Main {
 
